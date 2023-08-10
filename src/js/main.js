@@ -15,7 +15,6 @@ userTasks.addEventListener('click', doneTask);
 
 function addTask(e) {
     e.preventDefault();
-git 
     const taskText = userInput.value;
 
     const newTask = {
